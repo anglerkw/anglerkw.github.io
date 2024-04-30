@@ -10,6 +10,8 @@ My broad research goal is to advance knowledge of what makes psychotherapy work,
 
 Outside of work, I am an angler and enjoyed spending time in nature camping or hiking.
 
-<img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/f71f634c-a517-48f2-96b5-b232de9eed98" width="216" height="288">
+
+
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/4adae32b-8063-46e9-bf88-6c2a15d9d410" width="288" height="216">
+<img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/f71f634c-a517-48f2-96b5-b232de9eed98" width="166" height="216">
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/2ef9ad60-4ad9-4e4d-9246-0aef399b5478" width="288" height="216">
