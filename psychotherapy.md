@@ -13,7 +13,7 @@ I believe that individuals are experts on their own experience, and that their c
 
 Past Clinical Placements:
 
-2023-2024 UIHC[Holden Comprehensive Cancer Center](https://cancer.uiowa.edu/specialty-programs-clinics/behavioral-oncology-clinic), Iowa City, IA
+2023-2024 UIHC [Holden Comprehensive Cancer Center](https://cancer.uiowa.edu/specialty-programs-clinics/behavioral-oncology-clinic), Iowa City, IA
 
 2022-2023 [Women's Resource & Action Center](https://wrac.uiowa.edu/), Iowa City, IA
 
