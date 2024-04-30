@@ -11,3 +11,17 @@ Multicultural Interests:
 
 I believe that individuals are experts on their own experience, and that their communities offer wisdom about valued living. To understand the sociohistorical contexts and culture of communities, I actively seek opportunities beyond therapy sessions to gain more comprehensive knowledge about the complexity and needs of the clients’ communities. I am interested in working with clients on a variety of concerns related to identity and culture. I have strong interest and commitment to working with our LGBTQ+ communities, Asian American/Asian /International students.
 
+Past Clinical Placements:
+
+2023-2024 UIHC[Holden Comprehensive Cancer Center](https://cancer.uiowa.edu/specialty-programs-clinics/behavioral-oncology-clinic), Iowa City, IA
+
+2022-2023 [Women's Resource & Action Center](https://wrac.uiowa.edu/), Iowa City, IA
+
+2020-2022: UI [University Counseling Service](https://counseling.uiowa.edu/), Iowa City, IA
+
+2019-2020: [Carrollton Springs Hospital](https://carrolltonsprings.com/), Carrollton, TX
+
+2018-2019: SMU [Center for Family Counseling](https://www.smu.edu/simmons/community/family-counseling), Plano, TX
+
+2014-2015: Education Division, [Fujian Minjiang Prison](http://jyj.sft.fujian.gov.cn/jsdw/mjjy/), Fuzhou, China
+
