@@ -1,6 +1,6 @@
 title: "Kun Wang"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+author: "Kun Wang"
+description: "University of Iowa"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,21 +8,21 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
+show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html" title: Research}
+  - {file: "README.md" title: Psychotherapy}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:wksumo@gmail.com"}
-  - {title: Github, icon: github, url: "https://anglerkw.github.io"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Github, icon: github, url: "https://github.com/anglerkw"}
+  - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Kun_Wang115"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
