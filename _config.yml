@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: Research}
   - {file: "psychotherapy.md", title: Psychotherapy}
-
+  - {url: "https://scholar.google.com/citations?user=TE8kySUAAAAJ&hl=en&oi=ao", title: Publications}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:wksumo@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/anglerkw"}
