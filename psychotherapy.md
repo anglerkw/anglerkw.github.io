@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Psychotherapy"
+title: "My Approach to Psychotherapy"
 ---
 Clinical Interests:
 
@@ -8,5 +8,6 @@ I primarily approach counseling from a time limited psychodynamic lens which mea
 
 
 Multicultural Interests:
+
 I believe that individuals are experts on their own experience, and that their communities offer wisdom about valued living. To understand the sociohistorical contexts and culture of communities, I actively seek opportunities beyond therapy sessions to gain more comprehensive knowledge about the complexity and needs of the clients’ communities. I am interested in working with clients on a variety of concerns related to identity and culture. I have strong interest and commitment to working with our LGBTQ+ communities, Asian American/Asian /International students.
 
