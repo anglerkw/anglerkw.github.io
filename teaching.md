@@ -11,7 +11,7 @@ As a therapist venturing into teaching, my philosophy is rooted in the belief th
 
 **PSQF:7457 Advanced Group Leadership Experience**
 
-Graduate Teaching Assistant | Primary Instructor: Dr. Mallory Bolenbaugh | Dr. Martin Kivlighan
+*Graduate Teaching Assistant* - Primary Instructor: Dr. Mallory Bolenbaugh;  Dr. Martin Kivlighan
 
 •	Held weekly office-hours to assist students answering questions on textbook, quizzes, tests, and exams
 •	Led an experiential group therapy sessions to facilitate group therapy learning and application
@@ -19,7 +19,7 @@ Graduate Teaching Assistant | Primary Instructor: Dr. Mallory Bolenbaugh | Dr. M
 
 **PSQF:4143:0EXV Introduction to Statistical Methods**
 
-Graduate Teaching Assistant | Primary Instructor: Dr. Brandon LeBeau
+*Graduate Teaching Assistant* - Primary Instructor: Dr. Brandon LeBeau
 
 •	Critiqued assignments and provided written and oral feedbacks to undergraduate and graduate students
 •	Held weekly office-hours to assist students answering questions on textbook, quizzes, tests, and exams
@@ -28,7 +28,7 @@ Graduate Teaching Assistant | Primary Instructor: Dr. Brandon LeBeau
 
 **PSQF:6243:0003 Intermediate Statistical Methods**
 
-Graduate Teaching Assistant | Primary Instructor: Dr. Lesa Hoffman
+*Graduate Teaching Assistant* - Primary Instructor: Dr. Lesa Hoffman
 
 •	Assisted professor to facilitated graduate student’s understanding of statistical concepts
 •	Held weekly discussion section and office-hours to assist students answering questions on lectures, assignments, and tests.
@@ -37,7 +37,7 @@ Graduate Teaching Assistant | Primary Instructor: Dr. Lesa Hoffman
 
 **PSQF:4143:0EXV Introduction to Statistical Methods**
 
-Graduate Teaching Assistant | Primary Instructor: Dr. Brandon LeBeau
+*Graduate Teaching Assistant* - Primary Instructor: Dr. Brandon LeBeau
 
 •	Collaborated to develop the class syllabus and assignments for undergraduate and graduate students
 •	Participated in class sessions and assisted students in understanding concepts
@@ -47,7 +47,7 @@ Graduate Teaching Assistant | Primary Instructor: Dr. Brandon LeBeau
 
 **PSQF:6243:0002 Intermediate Statistical Methods**
 
-Graduate Teaching Assistant | Primary Instructor: Dr. Walter Vispoel
+*Graduate Teaching Assistant* - Primary Instructor: Dr. Walter Vispoel
 
 •	Collaborated to develop the class syllabus and assignments for graduate students
 •	Assisted professor developing quizzes and activities to facilitated student’s understanding of statistical concepts
@@ -56,7 +56,7 @@ Graduate Teaching Assistant | Primary Instructor: Dr. Walter Vispoel
 
 **PSQF:6243:0001 Intermediate Statistical Methods**
 
-Graduate Teaching Assistant | Primary Instructor: Dr. Walter Vispoel
+*Graduate Teaching Assistant* - Primary Instructor: Dr. Walter Vispoel
 
 •	Collaborated to develop the class syllabus and assignments for graduate students
 •	Participated in class sessions and assisted students in understanding concepts
