@@ -8,7 +8,7 @@ Before that, I earned my M.S. in [Clinical Mental Health Counseling (CACREP)](ht
 
 My broad research goal is to advance knowledge of what makes psychotherapy work, and the cultural factors that hinder or enrich the psychotherapy experience for culturally diverse clients.
 
-Outside of work, I am an angler and enjoyed spending time in nature <span style="color:red">camping</span> or hiking <span style="color:blue">hiking</span>.
+Outside of work, I am an angler and enjoyed spending time in nature <span style="color:red">camping</span> or <span style="color:blue">hiking</span>.
 
 
 
