@@ -64,3 +64,6 @@ As a therapist venturing into teaching, my philosophy is rooted in the belief th
 •	Held weekly office-hours to assist students answering questions on textbook, quizzes, tests, and exams
 •	Developed videos through Panopto to teach students using SPSS and G*Power package perform statistical procedures
 
+###Examples of Student's Evaluation 
+[Student Eval](SE.pdf)
+
