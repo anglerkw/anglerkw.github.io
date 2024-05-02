@@ -22,7 +22,7 @@ Outside of work, I am an angler and enjoyed spending time in nature <span style=
 
 
 
-|LEARN WITH ME,
+|<span style="color: purple ">LEARN WITH ME</span>
 
 01/01/2024
 
