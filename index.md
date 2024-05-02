@@ -21,8 +21,8 @@ Outside of work, I am an angler and enjoyed spending time in nature <span style=
 
 
 
-
-|<span style="color: purple ">LEARN WITH ME</span>
+---
+# <span style="color: purple ">LEARN WITH ME</span>
 
 01/01/2024
 
@@ -34,7 +34,7 @@ Press play to see the video.
 
 05/02/2024
 
-Falkenström, F. (2024). Time-lagged panel models in psychotherapy process and mechanisms of change research: Methodological challenges and advances. [Clinical Psychology Review](https://www.sciencedirect.com/science/article/pii/S0272735824000564?ref=pdf_download&fr=RR-2&rr=87d17d6b4b361130#bb0370), 102435.
+Falkenström, F. (2024). Time-lagged panel models in psychotherapy process and mechanisms of change research: Methodological challenges and advances. *[Clinical Psychology Review](https://www.sciencedirect.com/science/article/pii/S0272735824000564?ref=pdf_download&fr=RR-2&rr=87d17d6b4b361130#bb0370)*, 102435.
 
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/0a6d6551-e3c4-4230-abc0-c33a1aab6fc7" width="700" height="300">
 
