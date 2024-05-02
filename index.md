@@ -19,11 +19,14 @@ Outside of work, I am an angler and enjoyed spending time in nature <span style=
 
 
 
-LEARN WITH ME,
+
+
+
+|LEARN WITH ME,
 
 01/01/2024
 
-|Learning Dynamic Structural Equation Model:
+Learning Dynamic Structural Equation Model:
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/lvh-16N0HPY)](https://youtu.be/lvh-16N0HPY)
 
