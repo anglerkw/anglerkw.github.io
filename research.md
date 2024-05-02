@@ -2,7 +2,7 @@
 layout: page
 title: "Research"
 ---
-Program of Research
+## Program of Research
 
 Informed by the contextual model of psychotherapy (Wampold & Imel, 2015), my first line of research seeks to identify transtheoretical factors related to positive psychotherapy treatment outcomes. In one study, we examined two aspects of clients’ motivation in group psychotherapy, 1) alliance to the group and 2) achievement goal orientation, in relation to their perceived improvement in group psychotherapy (Wang, Anders, & Kivlighan, In preparation). Results indicated that clients’ perceived improvement was highest when they rated mastery goal orientation and group alliance congruent and high (i.e., congruent high-high effect). In another study, we applied an outcome expectation framework (Constantino et al., 2018) to examine clients’ role expectations of therapist support and challenge in relation to their treatment outcomes (Wang et al., in press). Results indicated that clients who expected both high challenge and high support from their therapist, prior to the start of counseling, reported the greatest improvement in counseling. I hope to continue to study common factors across diverse therapeutic approaches to advance research on evidence-based mechanisms of change in psychotherapy.
 
