@@ -5,6 +5,8 @@ title: "Teaching"
 ## TEACHING PHILOSOPHY
 
 As a therapist venturing into teaching, my philosophy is rooted in the belief that education, like therapy, thrives on empathy, respect, and authenticity. In my classroom, I aim to center student needs, ensuring that my teaching style and content are attuned to their developmental stages and individual learning styles. I strive to create a warm, inclusive environment that encourages students to explore and express their thoughts and emotions without fear of judgment. Recognizing the limits of my own expertise, I approach teaching with humility, inviting collaboration and dialogue that enrich both my students' learning and my own growth. At the same time, I am committed to providing the structure and support necessary to guide students through their academic journey, empowering them to build confidence and achieve their educational goals.
+### Examples of Student's Evaluation of My Teaching at University of Iowa
+[Student Eval](SE.pdf)
 
 ## TEACHING EXPERIENCE	
 
@@ -64,6 +66,5 @@ As a therapist venturing into teaching, my philosophy is rooted in the belief th
 •	Held weekly office-hours to assist students answering questions on textbook, quizzes, tests, and exams
 •	Developed videos through Panopto to teach students using SPSS and G*Power package perform statistical procedures
 
-### Examples of Student's Evaluation of My Teaching at University of Iowa
-[Student Eval](SE.pdf)
+
 
