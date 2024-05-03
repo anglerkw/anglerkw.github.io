@@ -40,7 +40,7 @@ Falkenström, F. (2024). Time-lagged panel models in psychotherapy process and m
 
 05/03/24
 
-[Multivariate Nornal Distribution](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
+[Multivariate Normal Distribution](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
 
 <img width="423" alt="Screen Shot 2024-05-03 at 1 35 44 PM" src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/59b87514-7950-42fa-adcb-d7e12e17ab4a">
 
