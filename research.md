@@ -14,7 +14,7 @@ Response Surface Analysis (*open to collaboration for this method*)
 ![RSA](https://github.com/anglerkw/anglerkw.github.io/assets/168578386/35de488b-3b0e-4bf1-902b-9d28438a28fb)
 
 
-Kivlighan, M., Bardhoshi, G., Wang, K., Anders, C., & Zilcha-Mano, S. (2024). Members’ goal orientation and working alliance in group therapy: A response surface analysis. *Journal of Counseling Psychology*, 71(3), 179–189. https://doi.org/10.1037/cou0000722
+Kivlighan, M., Bardhoshi, G., Wang, K., Anders, C., & Zilcha-Mano, S. (2024). Members’ goal orientation and working alliance in group therapy: A response surface analysis. *[Journal of Counseling Psychology](https://doi.org/10.1037/cou0000722)*, 71(3), 179–189. 
 
 
 
