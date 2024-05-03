@@ -9,7 +9,7 @@ Informed by the contextual model of psychotherapy (Wampold & Imel, 2015), my fir
 My second line of research examines cultural factors in psychotherapy and seeks to advance psychotherapy practice with marginalized groups. In one study[...]<details>, a qualitative methodology was used to examine licensed Asian international therapists’ experiences of racial microaggression within the therapeutic relationship (Wang, Ander, Ho, Garrison, & Kivlighan, In preparation). Preliminary results suggest that Asian international therapists commonly experience microaggressions and xenophobia within the therapeutic relationship and that these experiences have significant impacts on their training, the therapeutic relationship, and their personal wellness. Participants also identified strategies for navigating these cultural ruptures within the therapeutic relationship.  In another study, we are examining the effectiveness of group therapy for reducing depression and suicidality for transgender and non-binary individuals (Solness, Wang, Mitchell, & Kivlighan, in preparation). I am passionate about research examining therapeutic processes and experiences of marginalized populations in hopes of advancing equity and access within mental health care, and I am excited to continue to test understudied cultural and psychosocial processes of interventions for historically invisible individuals.</details>
 
 ### Data Visulization 
-Response Surface Analysis (*[open to collaboration for this method](url="mailto:wksumo.gmail.com")*)
+Response Surface Analysis (*[open to collaboration for this method](mailto:wksumo.gmail.com)*)
 
 ![RSA](https://github.com/anglerkw/anglerkw.github.io/assets/168578386/35de488b-3b0e-4bf1-902b-9d28438a28fb)
 
