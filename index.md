@@ -4,24 +4,17 @@ title: ""
 ---
 <div style="display: flex; width: 100%;">
   <!-- Main Content Area -->
-  <div style="flex: 7; padding: 10px;">
+  <div style="flex: 5; padding: 10px;">
     <h1></h1>
     <p>Hi 👋, I am a fifth-year doctoral candidate in the <a href="https://education.uiowa.edu/areas-study/counseling-and-mental-health/counseling-psychology">Counseling Psychology program (APA-accredited)</a> under the mentorship of <a href="https://scholar.google.com/citations?user=eOy2ZCkAAAAJ&hl=en">Dr. Martin Kivlighan</a>.</p>
     <p>Before that, I earned my M.S. in <a href="https://www.smu.edu/simmons/academics/counseling/ms-counseling">Clinical Mental Health Counseling (CACREP)</a> from Southern Methodist University and B.S. in <a href="https://www.fjmu.edu.cn/">Clinical Psychology</a> from Fujian Medical University.</p>
     <p>My broad research goal is to advance knowledge of what makes psychotherapy work, and the cultural factors that hinder or enrich the psychotherapy experience for culturally diverse clients.</p>
     <p>Outside of work, I am an angler 🎣 and enjoy spending time in nature camping ⛺ or hiking 🥾.</p>
 
-
-
-<img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/4adae32b-8063-46e9-bf88-6c2a15d9d410" width="288" height="216">
-<img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/f71f634c-a517-48f2-96b5-b232de9eed98" width="166" height="216">
-<img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/2ef9ad60-4ad9-4e4d-9246-0aef399b5478" width="288" height="216">
-
-
   </div>
 
   <!-- Sidebar Area -->
-  <div style="flex: 1; background-color: white; padding: 20px; height: 300px; overflow-y: auto;">
+  <div style="flex: 1; background-color: white; padding: 0px; height: 300px; overflow-y: auto;">
     <h2>News</h2>
     <ul>
        <li>05/01/2024 Kun will present at APA2024 @Seattle </li>
@@ -31,6 +24,9 @@ title: ""
   </div>
 </div>
 
+<img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/4adae32b-8063-46e9-bf88-6c2a15d9d410" width="288" height="216">
+<img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/f71f634c-a517-48f2-96b5-b232de9eed98" width="166" height="216">
+<img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/2ef9ad60-4ad9-4e4d-9246-0aef399b5478" width="288" height="216">
 
 ---
 # <span style="color: purple ">LEARN WITH ME</span>
