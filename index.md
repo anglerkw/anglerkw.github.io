@@ -13,7 +13,7 @@ title: ""
   </div>
 
   <!-- Sidebar Area -->
-  <div style="flex: 1; background-color: white; padding: 5px; height: 600px; overflow-y: auto;">
+  <div style="flex: 1; background-color: white; padding: 10px; height: 300px; overflow-y: auto;">
     <h2>News</h2>
     <ul>
        <li>05/01/2024 Kun will present syposiums and posters on Machine Learning of Psychotherapy research at APA2024@Seattle </li>
