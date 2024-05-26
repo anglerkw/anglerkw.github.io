@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-<div style="display: flex; width: 120%;">
+<div style="display: flex; width: 100%;">
   <!-- Main Content Area -->
   <div style="flex: 4; padding: 10px;">
     <h1></h1>
