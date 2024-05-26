@@ -5,8 +5,8 @@ title: ""
 <div style="display: flex; width: 100%;">
   <!-- Main Content Area -->
   <div style="flex: 3; padding: 10px;">
-    <h1>Hi 👋, I am a fourth-year doctoral candidate</h1>
-    <p>in the <a href="https://education.uiowa.edu/areas-study/counseling-and-mental-health/counseling-psychology">Counseling Psychology program (APA-accredited)</a> under the mentorship of <a href="https://scholar.google.com/citations?user=eOy2ZCkAAAAJ&hl=en">Dr. Martin Kivlighan</a>.</p>
+    <h1></h1>
+    <p>Hi 👋, I am a fifth-year doctoral candidate in the <a href="https://education.uiowa.edu/areas-study/counseling-and-mental-health/counseling-psychology">Counseling Psychology program (APA-accredited)</a> under the mentorship of <a href="https://scholar.google.com/citations?user=eOy2ZCkAAAAJ&hl=en">Dr. Martin Kivlighan</a>.</p>
     <p>Before that, I earned my M.S. in <a href="https://www.smu.edu/simmons/academics/counseling/ms-counseling">Clinical Mental Health Counseling (CACREP)</a> from Southern Methodist University and B.S. in <a href="https://www.fjmu.edu.cn/">Clinical Psychology</a> from Fujian Medical University.</p>
     <p>My broad research goal is to advance knowledge of what makes psychotherapy work, and the cultural factors that hinder or enrich the psychotherapy experience for culturally diverse clients.</p>
     <p>Outside of work, I am an angler 🎣 and enjoy spending time in nature camping ⛺ or hiking 🥾.</p>
@@ -16,9 +16,7 @@ title: ""
   <div style="flex: 1; background-color: #f0f0f0; padding: 20px; height: 300px; overflow-y: auto;">
     <h2>Quick Links</h2>
     <ul>
-      <li><a href="URL-to-latest-research">Latest Research</a></li>
-      <li><a href="URL-to-events">Upcoming Events</a></li>
-      <li><a href="URL-to-contact">Contact Information</a></li>
+      <li><a > May 1 Kun will be presenting syposiums and posters on Machine Learning of Psychotherapy research at APA2024@Seattle </a></li> 
     </ul>
   </div>
 </div>
