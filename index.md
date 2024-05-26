@@ -4,7 +4,7 @@ title: ""
 ---
 <div style="display: flex; width: 100%;">
   <!-- Main Content Area -->
-  <div style="flex: 4; padding: 10px;">
+  <div style="flex: 5; padding: 10px;">
     <h1></h1>
     <p>Hi 👋, I am a fifth-year doctoral candidate in the <a href="https://education.uiowa.edu/areas-study/counseling-and-mental-health/counseling-psychology">Counseling Psychology program (APA-accredited)</a> under the mentorship of <a href="https://scholar.google.com/citations?user=eOy2ZCkAAAAJ&hl=en">Dr. Martin Kivlighan</a>.</p>
     <p>Before that, I earned my M.S. in <a href="https://www.smu.edu/simmons/academics/counseling/ms-counseling">Clinical Mental Health Counseling (CACREP)</a> from Southern Methodist University and B.S. in <a href="https://www.fjmu.edu.cn/">Clinical Psychology</a> from Fujian Medical University.</p>
@@ -13,12 +13,12 @@ title: ""
   </div>
 
   <!-- Sidebar Area -->
-  <div style="flex: 1; background-color: white; padding: 20px; height: 300px; overflow-y: auto;">
+  <div style="flex: 1; background-color: white; padding: 10px; height: 100px; overflow-y: auto;">
     <h2>News</h2>
     <ul>
-       <li>05/01/2024 Kun will be presenting syposiums and posters on Machine Learning of Psychotherapy research at APA2024@Seattle </li>
+       <li>05/01/2024 Kun will present syposiums and posters on Machine Learning of Psychotherapy research at APA2024@Seattle </li>
        <li>03/07/2024 Kun poster presented@2024 AmericanPsychosocialOncologySociety </li>
-      <li>02/01/2024 Kun's reseach on Cultural humility acceptted by 2024RMPA Conference </li>
+      <li>02/01/2024 Kun's research on Cultural Humility acceptted by 2024RMPA Conference </li>
     </ul>
   </div>
 </div>
