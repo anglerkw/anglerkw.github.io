@@ -16,7 +16,7 @@ title: ""
   <div style="flex: 1; background-color: white; padding: 20px; height: 300px; overflow-y: auto;">
     <h2>News</h2>
     <ul>
-       <li><a >05/01/2024 Kun will be presenting syposiums and posters on Machine Learning of Psychotherapy research at APA2024@Seattle </a></li>
+       <li><05/01/2024 Kun will be presenting syposiums and posters on Machine Learning of Psychotherapy research at APA2024@Seattle </li>
     </ul>
   </div>
 </div>
