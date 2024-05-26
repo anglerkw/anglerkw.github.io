@@ -16,7 +16,7 @@ title: ""
   <div style="flex: 1; background-color: #f0f0f0; padding: 20px; height: 300px; overflow-y: auto;">
     <h2>Quick Links</h2>
     <ul>
-      <li><a > May 1 Kun will be presenting syposiums and posters on Machine Learning of Psychotherapy research at APA2024@Seattle </a></li> 
+      <li><a > 05/01/2024 Kun will be presenting syposiums and posters on Machine Learning of Psychotherapy research at APA2024@Seattle </a></li> 
     </ul>
   </div>
 </div>
