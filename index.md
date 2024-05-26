@@ -16,7 +16,7 @@ title: ""
   <!-- Sidebar Area -->
   <div style="flex: 1; background-color: white; padding: 0px; height: 300px; overflow-y: auto;">
     <h2>News</h2>
-    <ul>
+    <ul style="list-style-type: none;">
        <li>05/01/2024 Kun will present at APA2024 @Seattle </li>
        <li>03/07/2024 Kun presented @2024APOS </li>
       <li>02/01/2024 Kun will present @2024RMPA </li>
