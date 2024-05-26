@@ -10,18 +10,7 @@ title: ""
     <p>Before that, I earned my M.S. in <a href="https://www.smu.edu/simmons/academics/counseling/ms-counseling">Clinical Mental Health Counseling (CACREP)</a> from Southern Methodist University and B.S. in <a href="https://www.fjmu.edu.cn/">Clinical Psychology</a> from Fujian Medical University.</p>
     <p>My broad research goal is to advance knowledge of what makes psychotherapy work, and the cultural factors that hinder or enrich the psychotherapy experience for culturally diverse clients.</p>
     <p>Outside of work, I am an angler 🎣 and enjoy spending time in nature camping ⛺ or hiking 🥾.</p>
-  </div>
 
-  <!-- Sidebar Area -->
-  <div style="flex: 1; background-color: white; padding: 10px; height: 300px; overflow-y: auto;">
-    <h2>News</h2>
-    <ul>
-       <li>05/01/2024 Kun will present syposiums and posters on Machine Learning of Psychotherapy research at APA2024@Seattle </li>
-       <li>03/07/2024 Kun poster presented@2024 AmericanPsychosocialOncologySociety </li>
-      <li>02/01/2024 Kun's research on Cultural Humility acceptted by 2024RMPA Conference </li>
-    </ul>
-  </div>
-</div>
 
 
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/4adae32b-8063-46e9-bf88-6c2a15d9d410" width="288" height="216">
@@ -29,8 +18,18 @@ title: ""
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/2ef9ad60-4ad9-4e4d-9246-0aef399b5478" width="288" height="216">
 
 
+  </div>
 
-
+  <!-- Sidebar Area -->
+  <div style="flex: 1; background-color: white; padding: 20px; height: 300px; overflow-y: auto;">
+    <h2>News</h2>
+    <ul>
+       <li>05/01/2024 Kun will present at APA2024 @Seattle </li>
+       <li>03/07/2024 Kun presented @2024APOS </li>
+      <li>02/01/2024 Kun will present @2024RMPA </li>
+    </ul>
+  </div>
+</div>
 
 
 ---
