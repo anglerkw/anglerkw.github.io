@@ -2,7 +2,12 @@
 layout: page
 title: ""
 ---
-Hi 👋, I am a fourth-year doctoral candidate in the [Counseling Psychology program (APA-accredited)](https://education.uiowa.edu/areas-study/counseling-and-mental-health/counseling-psychology) under the mentorship of [Dr. Martin Kivlighan](https://scholar.google.com/citations?user=eOy2ZCkAAAAJ&hl=en). 
+<table>
+     <tr>
+    <!-- Left Column for Introduction -->
+    <td valign="top" width="80%">
+
+**Hi 👋, I am a fourth-year doctoral candidate** in the [Counseling Psychology program (APA-accredited)](https://education.uiowa.edu/areas-study/counseling-and-mental-health/counseling-psychology) under the mentorship of [Dr. Martin Kivlighan](https://scholar.google.com/citations?user=eOy2ZCkAAAAJ&hl=en). 
 
 Before that, I earned my M.S. in [Clinical Mental Health Counseling (CACREP)](https://www.smu.edu/simmons/academics/counseling/ms-counseling) from Southern Methodist University and B.S. in [Clinical Psychology](https://www.fjmu.edu.cn/) from Fujian Medical University.
 
@@ -10,6 +15,17 @@ My broad research goal is to advance knowledge of what makes psychotherapy work,
 
 Outside of work, I am an angler 🎣 and enjoy spending time in nature camping ⛺ or hiking 🥾.
 
+    </td>
+    <!-- Right Column for Additional Content -->
+    <td valign="top" width="20%">
+
+**Quick Links**
+- [Latest Research](URL-to-latest-research)
+
+
+    </td>
+  </tr>
+</table>
 
 
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/4adae32b-8063-46e9-bf88-6c2a15d9d410" width="288" height="216">
@@ -44,3 +60,7 @@ Falkenström, F. (2024). Time-lagged panel models in psychotherapy process and m
 
 <img width="423" alt="Screen Shot 2024-05-03 at 1 35 44 PM" src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/59b87514-7950-42fa-adcb-d7e12e17ab4a">
 
+05/26/24
+<s>Predoctoral Intern</s>  Post-doc Resident ✔️
+Palitsky, R., Kaplan, D. M., Brodt, M. A., Anderson, M. R., Athey, A., Coffino, J. A., ... & Stevenson, B. (2022). Systemic challenges in internship training for health-service psychology: A call to action from trainee stakeholders. *[Clinical Psychological Science](https://journals.sagepub.com/doi/10.1177/21677026211072232)*, 10(5), 819-845.
+Knowles, K. A., Cox, R. C., & Olatunji, B. O. (2024). Toward a Postdoctoral-Residency Training Model. *[Clinical Psychological Science](https://journals.sagepub.com/doi/full/10.1177/21677026231156594)*, 12(1), 185-188.
