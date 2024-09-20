@@ -12,7 +12,7 @@ My second line of research examines cultural factors in psychotherapy and seeks 
 (*open to collaboration for the following methods*)
 #### Response Surface Analysis 
 
-<p align="right",>
+<p align="right">
  <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/35de488b-3b0e-4bf1-902b-9d28438a28fb" />
 </p>
 
@@ -22,7 +22,7 @@ Kivlighan, M., Bardhoshi, G., Wang, K., Anders, C., & Zilcha-Mano, S. (2024). Me
 
 ![APIM](https://github.com/user-attachments/assets/b2eaeaab-798a-4a49-972e-2da9baf1c221)
 
-<p align="right",>
+<p align="right">
  <img src="https://github.com/user-attachments/assets/60ba95f1-0996-42cb-939b-3393f3c7f5bc" width="300" height="230" />
 </p>
 
