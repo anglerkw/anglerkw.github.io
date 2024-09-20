@@ -16,6 +16,10 @@ Response Surface Analysis (*[open to collaboration for this method](mailto:wksum
 
 Kivlighan, M., Bardhoshi, G., Wang, K., Anders, C., & Zilcha-Mano, S. (2024). Members’ goal orientation and working alliance in group therapy: A response surface analysis. *[Journal of Counseling Psychology](https://doi.org/10.1037/cou0000722)*, 71(3), 179–189. 
 
+Multilevel Actor-Partner Interdependence Model
 
+![APIM](https://github.com/user-attachments/assets/b2eaeaab-798a-4a49-972e-2da9baf1c221)
+
+![M-G fit](https://github.com/user-attachments/assets/60ba95f1-0996-42cb-939b-3393f3c7f5bc)
 
 Wang, K., Brownstone, L., & Kivlighan, M. (2024). Examining within- and between-member cohesion and working alliance effects on group members’ motivation: a preliminary actor-partner interdependence study. *[Psychotherapy Research](https://doi.org/10.1080/10503307.2024.2385399)*, 1–14.
