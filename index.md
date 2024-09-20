@@ -24,8 +24,10 @@ title: ""
   </div>
 </div>
 
-<img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/4adae32b-8063-46e9-bf88-6c2a15d9d410" width="288" height="216">
+<img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/4adae32b-8063-46e9-bf88-6c2a15d9d410" width="250" height="200">
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/f71f634c-a517-48f2-96b5-b232de9eed98" width="166" height="216">
+<img src="https://github.com/user-attachments/assets/ad7096ba-abed-4533-a1ee-b6ca1a3d8c91" width="150" height="200">
+<img src="https://github.com/user-attachments/assets/3b5eea9b-2439-42b5-bc84-a1472c841792" width="150" height="200">
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/2ef9ad60-4ad9-4e4d-9246-0aef399b5478" width="288" height="216">
 <img src="https://github.com/user-attachments/assets/d32651aa-94fa-400d-85b5-2f6da9483fbd" width="230" height="216">
 <img src="https://github.com/user-attachments/assets/b65a1060-a313-487b-af61-3cda79e839ae" width="288" height="216">
