@@ -21,7 +21,9 @@ Kivlighan, M., Bardhoshi, G., Wang, K., Anders, C., & Zilcha-Mano, S. (2024). Me
 #### Multilevel Actor-Partner Interdependence Model
 
 ![APIM](https://github.com/user-attachments/assets/b2eaeaab-798a-4a49-972e-2da9baf1c221)
+
 <p align="center">
  <img src="https://github.com/user-attachments/assets/60ba95f1-0996-42cb-939b-3393f3c7f5bc" width="300" height="230" />
 </p>
+
 Wang, K., Brownstone, L., & Kivlighan, M. (2024). Examining within- and between-member cohesion and working alliance effects on group members’ motivation: a preliminary actor-partner interdependence study. *[Psychotherapy Research](https://doi.org/10.1080/10503307.2024.2385399)*, 1–14.
