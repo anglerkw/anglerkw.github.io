@@ -17,7 +17,7 @@ title: ""
   <div style="flex: 1; background-color: white; padding: 0px; height: 300px; overflow-y: auto;">
     <h2>News</h2>
     <ul>
-    <li>05/01/2024 Kun will present @APA2024</li>
+    <li>09/01/2024 Kun won 1st Place Poster Award @APA2024</li>
     <li>03/07/2024 Kun presented @2024APOS </li>
     <li>02/01/2024 Kun will present @2024RMPA </li>
     </ul>
