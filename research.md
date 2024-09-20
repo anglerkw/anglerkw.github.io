@@ -18,3 +18,4 @@ Kivlighan, M., Bardhoshi, G., Wang, K., Anders, C., & Zilcha-Mano, S. (2024). Me
 
 
 
+Wang, K., Brownstone, L., & Kivlighan, M. (2024). Examining within- and between-member cohesion and working alliance effects on group members’ motivation: a preliminary actor-partner interdependence study. *[Psychotherapy Research](https://doi.org/10.1080/10503307.2024.2385399)*, 1–14.
