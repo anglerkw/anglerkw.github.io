@@ -14,7 +14,7 @@ title: ""
   </div>
 
   <!-- Sidebar Area -->
-  <div style="flex: 2; background-color: grey; padding: 3px; height: 350px; overflow-y: auto;">
+  <div style="flex: 2; background-color: white; padding: 2px; height: 350px; overflow-y: auto;">
     <h2>News</h2>
     <ul>
     <li>09/01/2024 Kun won 1st Place Poster Award @APA2024</li>
@@ -27,6 +27,13 @@ title: ""
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/4adae32b-8063-46e9-bf88-6c2a15d9d410" width="288" height="216">
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/f71f634c-a517-48f2-96b5-b232de9eed98" width="166" height="216">
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/2ef9ad60-4ad9-4e4d-9246-0aef399b5478" width="288" height="216">
+<img src="https://github.com/user-attachments/assets/d32651aa-94fa-400d-85b5-2f6da9483fbd" width="288" height="216">
+<img src="https://github.com/user-attachments/assets/b65a1060-a313-487b-af61-3cda79e839ae" width="288" height="216">
+<img src="https://github.com/user-attachments/assets/77538742-a5e7-4eb8-a17f-40d626ec8277" width="288" height="216">
+<img src="https://github.com/user-attachments/assets/97c31c3a-43b5-4a0d-aeff-c7aa964ca2b6" width="288" height="216">
+<img src="https://github.com/user-attachments/assets/1faec4dd-d81a-4384-9fae-218ff1cce3d9" width="288" height="216">
+
+
 
 ---
 # <span style="color: purple ">LEARN WITH ME</span>
