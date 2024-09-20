@@ -14,7 +14,7 @@ title: ""
   </div>
 
   <!-- Sidebar Area -->
-  <div style="flex: 1; background-color: white; padding: 0px; height: 300px; overflow-y: auto;">
+  <div style="flex: 2; background-color: white; padding: 2px; height: 350px; overflow-y: auto;">
     <h2>News</h2>
     <ul>
     <li>09/01/2024 Kun won 1st Place Poster Award @APA2024</li>
