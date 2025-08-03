@@ -78,4 +78,4 @@ Knowles, K. A., Cox, R. C., & Olatunji, B. O. (2024). Toward a Postdoctoral-Resi
 05/2025
 Learning Multidimensional Measurement Models:
 
-[Multidimensional Measurement Models](https://github.com/jonathantemplin/MultidimensionalMeasurementModels2023))
+[Multidimensional Measurement Models](https://github.com/jonathantemplin/MultidimensionalMeasurementModels2023)
