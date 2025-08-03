@@ -76,6 +76,7 @@ Palitsky, R., Kaplan, D. M., Brodt, M. A., Anderson, M. R., Athey, A., Coffino, 
 Knowles, K. A., Cox, R. C., & Olatunji, B. O. (2024). Toward a Postdoctoral-Residency Training Model. *[Clinical Psychological Science](https://journals.sagepub.com/doi/full/10.1177/21677026231156594)*, 12(1), 185-188.
 
 05/2025
+
 Learning Multidimensional Measurement Models:
 
 [Multidimensional Measurement Models](https://github.com/jonathantemplin/MultidimensionalMeasurementModels2023)
