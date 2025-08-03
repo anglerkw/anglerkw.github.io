@@ -17,7 +17,7 @@ title: ""
   <div style="flex: 2; background-color: white; padding: 2px; height: 350px; overflow-y: auto;">
     <h2>News</h2>
     <ul>
-    <li>08/2025 Kun awarded the Lillian Comas-Diaz Best Psychotherapy Best Paper</li>
+    <li>08/2025 Kun awarded the Lillian Comas-Diaz Best Psychotherapy Paper</li>
     <li>08/2025 Kun awarded Student Outstanding Contribution to Group Psychotherapy</li>
     <li>05/2025 Kun awarded T. Anne Cleary Psychological Research Scholarship</li>
     <li>05/2025 Kun defensed dissertation with no revision! </li>
