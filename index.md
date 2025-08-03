@@ -6,7 +6,7 @@ title: ""
   <!-- Main Content Area -->
   <div style="flex: 5; padding: 10px;">
     <h1></h1>
-    <p>Hi 👋, I am a fifth-year doctoral candidate in the <a href="https://education.uiowa.edu/areas-study/counseling-and-mental-health/counseling-psychology">Counseling Psychology program (APA-accredited)</a> under the mentorship of <a href="https://scholar.google.com/citations?user=eOy2ZCkAAAAJ&hl=en">Dr. Martin Kivlighan</a>.</p>
+    <p>Hi 👋, I am a sixth-year doctoral candidate in the <a href="https://education.uiowa.edu/areas-study/counseling-and-mental-health/counseling-psychology">Counseling Psychology program (APA-accredited)</a> under the mentorship of <a href="https://scholar.google.com/citations?user=eOy2ZCkAAAAJ&hl=en">Dr. Martin Kivlighan</a>. I am completing my APA psychology internship with the University of Utah's Counseling center here at the Salt Lake City.</p>
     <p>Before that, I earned my M.S. in <a href="https://www.smu.edu/simmons/academics/counseling/ms-counseling">Clinical Mental Health Counseling (CACREP)</a> from Southern Methodist University and B.S. in <a href="https://www.fjmu.edu.cn/">Clinical Psychology</a> from Fujian Medical University.</p>
     <p>My broad research goal is to advance knowledge of what makes psychotherapy work, and the cultural factors that hinder or enrich the psychotherapy experience for culturally diverse clients.</p>
     <p>Outside of work, I am an angler 🎣 and enjoy spending time in nature camping ⛺ or hiking 🥾.</p>
@@ -17,6 +17,10 @@ title: ""
   <div style="flex: 2; background-color: white; padding: 2px; height: 350px; overflow-y: auto;">
     <h2>News</h2>
     <ul>
+    <li>08/2025 Kun awarded the Lillian Comas-Diaz Best Psychotherapy Best Paper</li>
+    <li>08/2025 Kun awarded Student Outstanding Contribution to Group Psychotherapy</li>
+    <li>05/2025 Kun awarded T. Anne Cleary Psychological Research Scholarship</li>
+    <li>05/2025 Kun defensed dissertation with no revision! </li>
     <li>09/01/2024 Kun won 1st Place Poster Award @APA2024</li>
     <li>03/07/2024 Kun presented @2024APOS </li>
     <li>02/01/2024 Kun presented @2024RMPA </li>
@@ -35,8 +39,8 @@ title: ""
 <img src="https://github.com/user-attachments/assets/97c31c3a-43b5-4a0d-aeff-c7aa964ca2b6" width="288" height="216">
 <img src="https://github.com/user-attachments/assets/1faec4dd-d81a-4384-9fae-218ff1cce3d9" width="190" height="220">
 <img src="https://github.com/user-attachments/assets/6a2a7fe2-d31f-4bd9-a208-74963037a36b" width="280" height="220">
-
-
+<img src="https://github.com/user-attachments/assets/6d36a453-e201-4322-8f87-cbb993492cc8" width="280" height="220">
+<img src="https://github.com/user-attachments/assets/0a60b3eb-36b5-4e71-b1ff-655ffff60bb4" width="280" height="220">
 
 
 
@@ -70,3 +74,7 @@ Falkenström, F. (2024). Time-lagged panel models in psychotherapy process and m
 Palitsky, R., Kaplan, D. M., Brodt, M. A., Anderson, M. R., Athey, A., Coffino, J. A., ... & Stevenson, B. (2022). Systemic challenges in internship training for health-service psychology: A call to action from trainee stakeholders. *[Clinical Psychological Science](https://journals.sagepub.com/doi/10.1177/21677026211072232)*, 10(5), 819-845.
 
 Knowles, K. A., Cox, R. C., & Olatunji, B. O. (2024). Toward a Postdoctoral-Residency Training Model. *[Clinical Psychological Science](https://journals.sagepub.com/doi/full/10.1177/21677026231156594)*, 12(1), 185-188.
+
+Learning Multidimensional Measurement Models:
+
+[![](https://github.com/jonathantemplin/MultidimensionalMeasurementModels2023))
