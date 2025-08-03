@@ -85,7 +85,7 @@ Learning Multilevel Measurement Models:
 
 Learning Bayesian Psychometric Models:
 
-[Bayesian-Psychometric-Modeling] (https://github.com/jonathantemplin/Bayesian-Psychometric-Modeling-Course-Fall-2024)
+[Bayesian Psychometric Modeling](https://github.com/jonathantemplin/Bayesian-Psychometric-Modeling-Course-Fall-2024)
 
 
 05/2025
