@@ -81,6 +81,12 @@ Learning Multilevel Measurement Models:
 
 [Multilevel Measurement Models](https://github.com/jonathantemplin/mlmmWorkshop2023)
 
+Learning Large Language Models:
+
+<img width="547" height="676" alt="Screenshot 2025-08-03 at 12 01 17 PM" src="https://github.com/user-attachments/assets/556528b1-811f-4626-88d7-7d8d81ae7107" />
+
+[Large Language Models](https://github.com/rasbt/LLMs-from-scratch?tab=readme-ov-file)
+
 03/2025
 
 Learning Bayesian Psychometric Models:
