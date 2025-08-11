@@ -28,6 +28,7 @@ title: ""
   </div>
 </div>
 
+# <span style="color: red ">Me and my presentations</span>
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/4adae32b-8063-46e9-bf88-6c2a15d9d410" width="240" height="200">
 <img src="https://github.com/user-attachments/assets/77538742-a5e7-4eb8-a17f-40d626ec8277" width="150" height="200">
 <img src="https://github.com/anglerkw/anglerkw.github.io/assets/168578386/f71f634c-a517-48f2-96b5-b232de9eed98" width="150" height="200">
@@ -41,7 +42,11 @@ title: ""
 <img src="https://github.com/user-attachments/assets/6a2a7fe2-d31f-4bd9-a208-74963037a36b" width="280" height="220">
 <img src="https://github.com/user-attachments/assets/6d36a453-e201-4322-8f87-cbb993492cc8" width="280" height="220">
 <img src="https://github.com/user-attachments/assets/0a60b3eb-36b5-4e71-b1ff-655ffff60bb4" width="280" height="280">
-
+<img src="https://github.com/user-attachments/assets/167fca2a-7786-4ec4-8691-4e4593baf1d1" width="190" height="220">
+<img src="https://github.com/user-attachments/assets/cd5659f3-5034-4fa6-baef-531cf4acaa4e" width="190" height="220">
+<img src="https://github.com/user-attachments/assets/b8c7810a-58da-4cdf-9379-70556fbdda59" width="280" height="220">
+<img src="https://github.com/user-attachments/assets/cfc4faf9-5506-4361-8d46-5b7e0d327aa9" width="280" height="220">
+<img src="https://github.com/user-attachments/assets/c7735d0d-7305-47fe-abfb-39ff69601f9d" width="280" height="220">
 
 
 ---
