@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # <span style="color: red ">"I am happy you are here"</span>
+title: "I am happy you are here!"
 ---
 <div style="display: flex; width: 100%;">
   <!-- Main Content Area -->
@@ -29,7 +29,7 @@ title: # <span style="color: red ">"I am happy you are here"</span>
 </div>
 ---
 
-# <span style="color: yellow ">FISHES AND PRESENTATIONS</span>
+# <span style="color: purple ">FISHES AND PRESENTATIONS</span>
 
 <img src="https://github.com/user-attachments/assets/d1babc99-7b82-44f5-aad2-a46f4d1d4faa" width="190" height="220">
 <img src="https://github.com/user-attachments/assets/f47568b2-0c66-426c-a0d8-0e91ae2ed155" width="190" height="220">
@@ -39,7 +39,7 @@ title: # <span style="color: red ">"I am happy you are here"</span>
 <img src="https://github.com/user-attachments/assets/3b5eea9b-2439-42b5-bc84-a1472c841792" width="190" height="220">
 <img src="https://github.com/user-attachments/assets/d32651aa-94fa-400d-85b5-2f6da9483fbd" width="240" height="220">
 <img src="https://github.com/user-attachments/assets/b65a1060-a313-487b-af61-3cda79e839ae" width="280" height="220">
-<img src="https://github.com/user-attachments/assets/97c31c3a-43b5-4a0d-aeff-c7aa964ca2b6" width="288" height="216">
+<img src="https://github.com/user-attachments/assets/97c31c3a-43b5-4a0d-aeff-c7aa964ca2b6" width="280" height="220">
 <img src="https://github.com/user-attachments/assets/1faec4dd-d81a-4384-9fae-218ff1cce3d9" width="190" height="220">
 <img src="https://github.com/user-attachments/assets/6a2a7fe2-d31f-4bd9-a208-74963037a36b" width="280" height="220">
 <img src="https://github.com/user-attachments/assets/6d36a453-e201-4322-8f87-cbb993492cc8" width="280" height="220">
