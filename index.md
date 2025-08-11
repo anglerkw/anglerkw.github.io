@@ -15,7 +15,7 @@ title: "I am happy you are here!"
 
   <!-- Sidebar Area -->
   <div style="flex: 2; background-color: white; padding: 2px; height: 350px; overflow-y: auto;">
-    <h2>News</h2>
+    <h2>News(scroll down)</h2>
     <ul>
     <li>08/2025 Kun awarded the Lillian Comas-Diaz Best Psychotherapy Paper</li>
     <li>08/2025 Kun awarded Student Outstanding Contribution to Group Psychotherapy</li>
